@@ -1,0 +1,37 @@
+{
+    "products": [
+    {
+        "id": "1",
+        "name": "iphone",
+        "price": 70000,
+        "quantity": 200,
+        "description": "64 GB ROM\n11.94 cm (4.7 inch) Retina HD Display\n12MP Rear Camera | 7MP Front Camera",
+        "productPictures": [
+            {
+               "img": "iphone1.jpeg"
+            },
+            {
+                
+                "img": "iphone2.jpeg"
+            }
+        ]
+        
+    },
+    {
+       "id":"2",
+       "name":"samsung",
+       "price":"20000",
+       "quantity":"100",
+       "description":"32GB ROM (5 inch) 13MP Front, 200V battery"
+    },
+    {
+        "id":"3",
+        "name":"Motorola",
+        "price":"25000",
+        "quantity":"110",
+        "description":"64GB ROM (10 inch) 20MP Front, 100V battery"
+     }
+     
+   
+]
+}

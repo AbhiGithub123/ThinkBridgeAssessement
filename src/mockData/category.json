@@ -1,0 +1,49 @@
+{
+    "categoryList": [
+        {
+            "id": "1",
+            "name": "Electronics",
+            "children": [
+                {
+                    "id": "100",
+                    "name": "Mobiles",
+                    "parentId": "1",
+                    "children": [
+                        {
+                            "id": "200",
+                            "name": "Samsung",
+                            "parentId": "100",
+                            "children": []
+                        },
+                        {
+                            "id": "201",
+                            "name": "Realme",
+                            "parentId": "100",
+                            "children": []
+                        }
+                        
+                                ]
+                }
+               
+            ]
+        },
+        {
+            "id": "2",
+            "name": "Sports",
+            "children": []
+        },
+        {
+            "id": "3",
+            "name": "Men",
+            "children":[
+                {
+                    "id":"202",
+                    "name":"Pants",
+                    "parentId":"3",
+                    "children":[]
+                }
+            ]
+        }
+        
+    ]
+}
